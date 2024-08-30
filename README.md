@@ -2,6 +2,8 @@
 ```markdown
 # Task Tracker
 
+*If you want the English version, please go to the ENG folder.*
+
 Um simples rastreador de tarefas criado em Python. Este programa permite que você crie, altere, delete, liste e filtre tarefas através de uma interface de linha de comando (CLI). As tarefas são salvas em um arquivo de texto para persistência entre execuções.
 
 ## Funcionalidades
